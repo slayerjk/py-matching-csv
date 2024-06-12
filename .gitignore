@@ -1,11 +1,11 @@
 # created by virtualenv automatically
 *
 
-!app_scripts/app_functions.py
-!app_scripts/project_helper.py
-!app_scripts/project_mailing.py
-!data_files/BLANK_mailing_data.json
 !.gitignore
 !app.py
 !project_static.py
 !README.md
+!app_scripts/app_functions.py
+!app_scripts/project_helper.py
+!app_scripts/project_mailing.py
+!data_files/BLANK_mailing_data.json
