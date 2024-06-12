@@ -4,6 +4,7 @@ __pycache__
 .venv
 Lib
 Scripts
+Logs
 
 data_files/*
 !data_files/BLANK_mailing_data.json
